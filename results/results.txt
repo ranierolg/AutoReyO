@@ -1,0 +1,123 @@
+======DETAIL 1======
+Predicted   0   1
+Actual           
+0           7   0
+1          47  87
+F1 score is: 0.7873303167420814
+                
+======DETAIL 2======
+Predicted    1
+Actual        
+1          141
+F1 score is: 1.0
+                
+======DETAIL 3======
+Predicted    1
+Actual        
+1          141
+F1 score is: 1.0
+                
+======DETAIL 4======
+Predicted   0    1
+Actual            
+0           2    0
+1          19  120
+F1 score is: 0.9266409266409266
+                
+======DETAIL 5======
+Predicted  0    1
+Actual           
+0          1    0
+1          6  134
+F1 score is: 0.9781021897810218
+                
+======DETAIL 6======
+Predicted  0    1
+Actual           
+0          6   10
+1          1  124
+F1 score is: 0.9575289575289575
+                
+======DETAIL 7======
+Predicted   0   1
+Actual           
+0          15  26
+1           6  94
+F1 score is: 0.8545454545454546
+                
+======DETAIL 8======
+Predicted  0    1
+Actual           
+0          4    3
+1          6  128
+F1 score is: 0.9660377358490565
+                
+======DETAIL 9======
+Predicted   0   1
+Actual           
+0          33   0
+1          19  89
+F1 score is: 0.9035532994923858
+                
+======DETAIL 10======
+Predicted   0   1
+Actual           
+0          67   3
+1          15  56
+F1 score is: 0.8615384615384616
+                
+======DETAIL 11======
+Predicted   0    1
+Actual            
+0           3    0
+1          30  108
+F1 score is: 0.878048780487805
+                
+======DETAIL 12======
+Predicted   0   1
+Actual           
+0          13   2
+1          27  99
+F1 score is: 0.8722466960352424
+                
+======DETAIL 13======
+Predicted  0    1
+Actual           
+0          5    4
+1          5  127
+F1 score is: 0.9657794676806084
+                
+======DETAIL 14======
+Predicted   0    1
+Actual            
+0           9    1
+1          27  104
+F1 score is: 0.8813559322033899
+                
+======DETAIL 15======
+Predicted   0   1
+Actual           
+0          42  10
+1          27  62
+F1 score is: 0.7701863354037267
+                
+======DETAIL 16======
+Predicted   0   1
+Actual           
+0          34   3
+1          13  91
+F1 score is: 0.9191919191919191
+                
+======DETAIL 17======
+Predicted   0   1
+Actual           
+0          18   2
+1          41  80
+F1 score is: 0.7881773399014778
+                
+======DETAIL 18======
+Predicted   0    1
+Actual            
+0          12    1
+1          17  111
+F1 score is: 0.9249999999999999
